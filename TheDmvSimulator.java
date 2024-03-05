@@ -1,4 +1,4 @@
-import java.util.Random;andom.*;
+import java.util.Random;
 
 public class TheDmvSimulator{
 

@@ -17,9 +17,16 @@ public class TheDmvSimulator{
         }
 
         System.out.println("Calling number " + userNumber);
-        System.out.println("YOU DON'T HAVE THE WRITE PAPERWORK, LEAVE AND NEVER COME BACK!");
-          
+
+        if (Math.random() < 0.01){
+            System.out.println("Wow! you have all of the required paperwork");
+
+        } else{
+            System.out.println("YOU DON'T HAVE THE WRITE PAPERWORK, LEAVE AND NEVER COME BACK!");
+
+        }
         
+       
     }
     
 

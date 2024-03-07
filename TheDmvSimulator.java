@@ -17,7 +17,7 @@ public class TheDmvSimulator{
         }
 
         System.out.println("Calling number " + userNumber);
-        System.out.println("YOU DON'T HAVE THE WRITE PAPERWORK, LEAVE AND NEVER COME BACK, MWHAHAHAHA!");
+        System.out.println("YOU DON'T HAVE THE WRITE PAPERWORK, LEAVE AND NEVER COME BACK!");
           
         
     }
